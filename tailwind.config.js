@@ -2,9 +2,9 @@
 module.exports = {
   content: ['index.html'],
   theme: {
-    container:{
+    container: {
       center: true,
-      padding: '16px'
+      padding: '16px',
     },
     extend: {
       colors: {
@@ -14,7 +14,8 @@ module.exports = {
       },
       screens:{
         '2xl' : '1320px',
-      }
+        'xl' : '1064px',
+      },
     },
   },
   plugins: [],
