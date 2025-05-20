@@ -141,18 +141,14 @@ menu:
       name: Tags
       url: /tags
       weight: 40
-    - identifier: categories
-      name: Categories
-      url: /categories
-      weight: 50
     - identifier: archives
       name: Archives
       url: /archives
-      weight: 60
+      weight: 50
     - identifier: search
       name: Search
       url: /search
-      weight: 70
+      weight: 60
 
 pygmentsUseClasses: true
 markup:

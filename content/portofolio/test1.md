@@ -7,7 +7,6 @@ cover:
     alt:    'this is a post image'
     caption: 'this is the caption'
 tags: ["portofolio"]
-categories: ["portofolio"]
 enableToc: false
 ---
 # Test

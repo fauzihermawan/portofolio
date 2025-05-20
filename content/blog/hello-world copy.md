@@ -3,7 +3,6 @@ date: '2025-05-19T19:42:45+07:00'
 draft: false
 title: 'Hello World'
 tags: ["hello", "world"]
-categories: ["hello"]
 showToc: true
 TocOpen: false
 comments: true
