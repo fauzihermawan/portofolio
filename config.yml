@@ -19,8 +19,8 @@ minify:
   # minifyOutput: true
 
 pagination:
-  disableAliases: false
-  pagerSize: 5
+  disableAliases: true
+  pagerSize: 10
 
 
 menu:
@@ -184,3 +184,7 @@ services:
     disableInlineCSS: true
   x:
     disableInlineCSS: true
+
+services:
+  disqus:
+    shortname: fauzi-ramadhan-hermawan
