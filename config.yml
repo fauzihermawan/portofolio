@@ -95,8 +95,6 @@ params:
         url: "https://"
       - name: Artstation
         url: "https://"
-      - name: Commision
-        url: "https://"
 
   socialIcons: 
     - name: email
@@ -120,10 +118,6 @@ params:
     - name: x
       url: "twitter.com"
 
-    - name: bluesky
-      url: "github.com"
-
-    - name: kofi
 
   #homeInfoParams:
   #  Title: "PaperMod's Demo"
