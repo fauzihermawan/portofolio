@@ -19,3 +19,6 @@ draft: true
 {{< gallery-max >}}
 
 {{< gallery-small >}} still in wip
+
+   this is for image floating
+{{< figure src="images/1.png" class="floatleft" caption="this is caption" >}}
