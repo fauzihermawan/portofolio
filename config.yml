@@ -90,33 +90,33 @@ params:
     imageTitle: my image
     buttons: 
       - name: Resume
-        url: "https://"
+        url: "https://drive.google.com/file/d/1t4lYW5boVweNsmfUVjtxsfNwcwGbWzFe/view?usp=sharing"
       - name: Showreel
-        url: "https://"
+        url: "https://youtu.be/2AhnoveKi0s"
       - name: Artstation
-        url: "https://"
+        url: "https://www.artstation.com/fauzihermawan"
 
   socialIcons: 
     - name: email
-      url: "email.com"
+      url: "mailto:mail@fauzihermawan.com"
 
     - name: linkedin
-      url: "linkedin.com"
-
-    - name: behance
-      url: ""
-
-    - name: youtube
-      url: "facebook.com"
+      url: "https://www.linkedin.com/in/fauzi-ramadhan-hermawan-71b600256/"
 
     - name: instagram
-      url: "facebook.com"
+      url: "https://www.instagram.com/fzi_rh/"
 
-    - name: facebook
-      url: "facebook.com"
+    - name: youtube
+      url: "https://www.youtube.com/@pawz3d"
+      
+    - name: behance
+      url: "https://www.behance.net/fauzirh"
 
-    - name: x
-      url: "twitter.com"
+    - name: whatsapp
+      url: "https://wa.me/6289649641520"
+
+    - name: discord
+      url: "https://discordapp.com/users/816812619679793204"
 
 
   #homeInfoParams:
