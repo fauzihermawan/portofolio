@@ -6,7 +6,7 @@ description: "A curated collection of my best projects."
 ## Gallery
  {{< gallery 
     match="images/*" 
-    sortOrder="desc" 
+    sortOrder="asc" 
     rowHeight="150" 
     margins="5" 
     thumbnailResizeOptions="900x900 q90 Lanczos" 
