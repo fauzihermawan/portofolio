@@ -93,20 +93,37 @@ params:
         url: "https://"
       - name: Showreel
         url: "https://"
+      - name: Artstation
+        url: "https://"
+      - name: Commision
+        url: "https://"
 
   socialIcons: 
     - name: email
       url: "email.com"
+
     - name: linkedin
       url: "linkedin.com"
-    - name: facebook
-      url: "facebook.com"
+
+    - name: behance
+      url: ""
+
     - name: youtube
       url: "facebook.com"
-    - name: twitter
+
+    - name: instagram
+      url: "facebook.com"
+
+    - name: facebook
+      url: "facebook.com"
+
+    - name: x
       url: "twitter.com"
-    - name: github
+
+    - name: bluesky
       url: "github.com"
+
+    - name: kofi
 
   #homeInfoParams:
   #  Title: "PaperMod's Demo"
