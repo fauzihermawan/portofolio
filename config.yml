@@ -65,9 +65,9 @@ params:
   # disableSpecial1stPost: true
   # displayFullLangName: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
-  ShowRssButtonInSectionTermList: true
+  ShowRssButtonInSectionTermList: false
   ShowAllPagesInArchive: true
   ShowPageNums: true
   #ShowToc: true
@@ -121,7 +121,7 @@ params:
     text: "FRH"
   # iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" fill="currentColor"><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>'
   # text: "Home"
-    icon: /apple-touch-icon.PNG
+    icon: /apple-touch-icon.png
     iconHeight: 35
 
   # analytics:
@@ -130,10 +130,10 @@ params:
 
   assets:
     disableHLJS: true
-    favicon: "/favicon.ICO"
-    favicon16x16: "/favicon-16x16.PNG"
-    favicon32x32: "/favicon-32x32.PNG"
-    apple_touch_icon: "/apple-touch-icon.PNG"
+    favicon: "/favicon.png"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
 
   # cover:
   #     hidden: true # hide everywhere but not in structured data
