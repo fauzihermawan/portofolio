@@ -7,7 +7,6 @@ cover:
 tags: ["portofolio"]
 showToc: true
 TocOpen: false
-description: "test decription"
 summary: "test summary"
 ---
 # Test
