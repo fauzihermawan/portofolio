@@ -3,7 +3,9 @@
 baseURL: "https://fauzihermawan.com"
 title: Fauzi Ramadhan Hermawan  
 copyright: "© [Fauzi Ramadhan Hermawan](https://fauzihermawan.com)"
-theme: PaperMod
+theme: 
+  - PaperMod
+  - hugo-shortcode-gallery
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -30,7 +32,7 @@ menu:
     weight: 10
   - name: Portofolio
     url: portofolio/
-    weight: 20          
+    weight: 20       
   - name: Blog
     url: blog/
     weight: 30    

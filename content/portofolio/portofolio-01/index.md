@@ -9,7 +9,7 @@ enableToc: false
 ---
 # Test
 
-{{< lightbox >}}
+{{< gallery-max >}}
 
 ![test1](images/1.png)
 ![test2](images/2.png)
