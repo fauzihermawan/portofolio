@@ -1,5 +1,5 @@
 ---
-date: '2021-07-02'
+date: '2020-06-09'
 draft: false
 title: 'Deep Indigo - Yorushika'
 cover:

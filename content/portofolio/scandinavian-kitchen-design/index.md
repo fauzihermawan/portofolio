@@ -1,5 +1,5 @@
 ---
-date: '2021-07-26'
+date: '2022-12-19'
 draft: false
 title: 'Scandinavian Kitchen Design'
 cover:

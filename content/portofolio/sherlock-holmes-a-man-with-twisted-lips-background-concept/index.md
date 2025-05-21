@@ -1,5 +1,5 @@
 ---
-date: '2021-07-02'
+date: '2021-01-30'
 draft: false
 title: 'Sherlock Holmes a Man With Twisted Lips Background Concept'
 summary: "A concept background for animated film task Sherlock Holmes a Man With Twisted Lips" 
