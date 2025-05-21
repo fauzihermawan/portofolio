@@ -4,7 +4,7 @@ draft: false
 title: 'Hello World'
 tags: ["hello", "world"]
 showToc: true
-TocOpen: false
+TocOpen: true
 comments: true
 ---
 # Understanding "Hello, World!" in Programming
