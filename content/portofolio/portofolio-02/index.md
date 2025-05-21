@@ -5,7 +5,8 @@ title: 'Test 2'
 cover:
     image: "/img/porto2.png"
 tags: ["portofolio"]
-enableToc: false
+showToc: true
+TocOpen: false
 ---
 # Test
 

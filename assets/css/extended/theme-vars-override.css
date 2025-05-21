@@ -25,7 +25,7 @@
 
 @media (min-width: 1024px) {  /* Applies only on screens wider than 1024px */
     :root {
-        --main-width: 50%;
+        --main-width: 65%;
         --post-width: 50%;
 
     .main.post {

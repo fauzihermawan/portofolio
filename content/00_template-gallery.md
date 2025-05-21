@@ -1,9 +1,7 @@
 ---
-title: "🎨 Portfolio "
-description: "A curated collection of my best projects."
+draft: true
 ---
 
-## Gallery
  {{< gallery 
     match="images/*" 
     sortOrder="desc" 
@@ -16,5 +14,8 @@ description: "A curated collection of my best projects."
     loadJQuery=true 
  >}}
 
- ---
- ## Project
+ this using themes hugo-shortcode-gallery
+
+{{< gallery-max >}}
+
+{{< gallery-small >}} still in wip

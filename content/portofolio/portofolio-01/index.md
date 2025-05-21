@@ -5,7 +5,8 @@ title: 'Test 1'
 cover:
     image: "/img/porto1.png"
 tags: ["portofolio"]
-enableToc: false
+showToc: true
+TocOpen: false
 ---
 # Test
 
@@ -14,6 +15,9 @@ enableToc: false
 ![test1](images/1.png)
 ![test2](images/2.png)
 {{< youtube 0RKpf3rK57I >}}
+
+## pasdj
+
 
 {{< figure src="images/1.png" class="floatleft" caption="this is caption" >}}
 
