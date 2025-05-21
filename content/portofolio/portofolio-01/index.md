@@ -9,6 +9,8 @@ enableToc: false
 ---
 # Test
 
+{{< lightbox >}}
+
 ![test1](images/1.png)
 ![test2](images/2.png)
 {{< youtube 0RKpf3rK57I >}}
