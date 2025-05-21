@@ -2,6 +2,7 @@
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://fauzihermawan.com"
 title: Fauzi Ramadhan Hermawan
+description: I’m Fauzi Ramadhan Hermawan, a passionate 3D Artist specializing in game-ready assets 🎮✨ From modeling, rigging, texturing, and animation, I bring digital worlds to life with immersive characters, environments, and creatures.
 copyright: "© [Fauzi Ramadhan Hermawan](https://fauzihermawan.com)"
 theme: PaperMod
 
