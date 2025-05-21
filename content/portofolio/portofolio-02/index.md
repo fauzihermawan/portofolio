@@ -3,7 +3,7 @@ date: '2025-05-19T19:45:14+07:00'
 draft: false
 title: 'Test 2'
 cover:
-    image: images/porto1.png
+    image: 'img/porto2.PNG'
 tags: ["portofolio"]
 enableToc: false
 ---
