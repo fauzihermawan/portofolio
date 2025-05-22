@@ -71,19 +71,6 @@
         </div>
 
 
-  {{- if .Params.tags }}
-  <div class="post-tags" style="margin-right: 5px; display: flex; flex-wrap: wrap; justify-content: flex-end; margin-top: 5px;   ">
-    <div style="display: flex; margin-top: 5px; padding-right: 10px;">
-      {{ range .Params.tags }}
-      <a href="/tags/{{ . | urlize }}">
-        {{ . }}
-      </a>
-      {{ end }}
-    </div>
-  </div>
-  {{- end }}
-
-
 
         <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
       </div>
