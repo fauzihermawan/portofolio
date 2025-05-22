@@ -5,7 +5,7 @@ title: 'Low poly gun '
 summary: "" 
 cover:
     image: "/img/lowpoly-gun.jpg"
-tags: ["portofolio","3D", "game-ready", "low-poly"]
+tags: ["portofolio","3D", "low-poly"]
 showToc: true
 TocOpen: false
 ---

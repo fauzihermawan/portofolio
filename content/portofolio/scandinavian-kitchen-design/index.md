@@ -4,7 +4,7 @@ draft: false
 title: 'Scandinavian Kitchen Design'
 cover:
     image: "/img/scandinavian-kitchen.png"
-tags: ["portofolio","3D", "blender"]
+tags: ["portofolio","3D", "blender", "environment"]
 showToc: true
 TocOpen: false
 summary: "Scandinavian Kitchen Design in Blender" 

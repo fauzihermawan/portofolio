@@ -5,7 +5,7 @@ title: 'Viper Valorant Fan Art'
 summary: "You wanted a villain? I gave you a villain! a Viper Valorant Fan Art." 
 cover:
     image: "/img/viper.png"
-tags: ["portofolio","2D", "photoshop", "fanart"]
+tags: ["portofolio","2D", "photoshop", "fanart", "concept-art"]
 showToc: true
 TocOpen: false
 ---
