@@ -89,12 +89,15 @@ params:
     imageHeight: 210
     imageTitle: my image
     buttons: 
-      - name: Resume
+      - name: "Resume 📄"
         url: "https://drive.google.com/file/d/1t4lYW5boVweNsmfUVjtxsfNwcwGbWzFe/view?usp=sharing"
-      - name: Showreel
+      - name: "Showreel 📺"
         url: "https://youtu.be/2AhnoveKi0s"
-      - name: Artstation
+      - name: "Portfolio 🖼️"
+        url: "/portofolio/"
+      - name: "Artstation 🎨"
         url: "https://www.artstation.com/fauzihermawan"
+      - name: "Commision 📞"
 
   socialIcons: 
     - name: email
