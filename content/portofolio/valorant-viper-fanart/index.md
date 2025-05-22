@@ -9,5 +9,6 @@ tags: ["portofolio","2D", "photoshop", "fanart"]
 showToc: true
 TocOpen: false
 ---
+{{< lightbox src="01.png">}}
 {{< lightbox src="02.png">}}
 

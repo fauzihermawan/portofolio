@@ -152,10 +152,10 @@ params:
     favicon32x32: "/favicon-32x32.png"
     apple_touch_icon: "/apple-touch-icon.png"
 
-  # cover:
+  cover:
   #     hidden: true # hide everywhere but not in structured data
   #     hiddenInList: true # hide on list pages and home
-  #     hiddenInSingle: true # hide on single page
+      hiddenInSingle: true # hide on single page
 
   # fuseOpts:
   #     isCaseSensitive: false

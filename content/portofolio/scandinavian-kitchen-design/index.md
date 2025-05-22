@@ -9,7 +9,10 @@ showToc: true
 TocOpen: false
 summary: "Scandinavian Kitchen Design in Blender" 
 ---
+### Rendered Image
+{{< lightbox src="70.png">}}
 
+### Rendered Video
 {{< youtube OpP_D2Eo9_8 >}}
 
 

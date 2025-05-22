@@ -11,4 +11,5 @@ TocOpen: false
 ---
 {{< gallery-max >}}
 
+{{< lightbox src="01.png">}}
 
