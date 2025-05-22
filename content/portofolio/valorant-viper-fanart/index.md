@@ -9,7 +9,7 @@ tags: ["portofolio","2D", "photoshop", "fanart"]
 showToc: true
 TocOpen: false
 ---
-[![Image](/img/viper.png)](/img/viper.png)
+{{< lightbox match="01.png">}}
 
-{{< lightbox src="02.png">}}
+{{< lightbox match="02.png">}}
 
