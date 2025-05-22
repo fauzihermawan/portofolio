@@ -1,0 +1,11 @@
+{{ $imageName := .Get "match" }}
+{{ $selectedImages := .Page.Resources.Match (printf "*%s*" $imageName) }}
+{{ $selectedImage := index $selectedImages 0 }}
+
+{{ with $selectedImage }}
+    <a href="{{ .Permalink }}" data-lightbox="gallery">
+        <img src="{{ .Permalink }}" alt="{{ $imageName }}" style="max-width: 100%; height: auto;" />
+    </a>
+{{ else }}
+    <p>Error: Image "{{ $imageName }}" not found in page resources.</p>
+{{ end }}

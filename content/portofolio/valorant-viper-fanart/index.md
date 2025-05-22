@@ -9,6 +9,5 @@ tags: ["portofolio","2D", "photoshop", "fanart"]
 showToc: true
 TocOpen: false
 ---
-{{< gallery-max >}}
-
+{{< lightbox src="02.png">}}
 
