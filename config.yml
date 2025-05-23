@@ -90,7 +90,7 @@ params:
     imageTitle: my image
     buttons: 
       - name: "Resume 📄"
-        url: "https://drive.google.com/file/d/1t4lYW5boVweNsmfUVjtxsfNwcwGbWzFe/view?usp=sharing"
+        url: "https://drive.google.com/file/d/1RvKVfidUaoZzFQlNASY8AS2YDTN7jcJ7/view?usp=sharing"
       - name: "Showreel 📺"
         url: "https://youtu.be/2AhnoveKi0s"
       - name: "Portfolio 🖼️"
@@ -104,7 +104,7 @@ params:
       url: "mailto:mail@fauzihermawan.com"
 
     - name: linkedin
-      url: "https://www.linkedin.com/in/fauzi-ramadhan-hermawan-71b600256/"
+      url: "http://www.linkedin.com/in/fauzi-hermawan"
 
     - name: instagram
       url: "https://www.instagram.com/fzi_rh/"
