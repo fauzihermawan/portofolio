@@ -91,13 +91,13 @@ params:
     buttons: 
       - name: "Resume 📄"
         url: "https://drive.google.com/file/d/1RvKVfidUaoZzFQlNASY8AS2YDTN7jcJ7/view?usp=sharing"
-      - name: "Showreel 📺"
-        url: "https://youtu.be/2AhnoveKi0s"
+      #- name: "Showreel 📺"
+      #  url: "https://youtu.be/2AhnoveKi0s"
       - name: "Portfolio 🖼️"
         url: "/portofolio/"
       - name: "Artstation 🎨"
         url: "https://www.artstation.com/fauzihermawan"
-      - name: "Commision 📞"
+      #- name: "Commision 📞"
 
   socialIcons: 
     - name: email
