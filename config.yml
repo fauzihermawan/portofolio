@@ -141,9 +141,9 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # analytics:
-  #     google:
-  #         SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+       SiteVerificationTag: "G-XKWLXXPZFK"
 
   assets:
     disableHLJS: true
