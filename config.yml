@@ -141,9 +141,6 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  analytics:
-    google:
-       SiteVerificationTag: "G-XKWLXXPZFK"
 
   assets:
     disableHLJS: true
@@ -205,3 +202,10 @@ services:
 services:
   disqus:
     shortname: fauzi-ramadhan-hermawan
+
+googleAnalytics: G-XKWLXXPZFK
+
+
+analytics:
+    google:
+        SiteVerificationTag: "G-XKWLXXPZFK"
