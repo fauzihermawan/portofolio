@@ -95,8 +95,8 @@ params:
       #  url: "https://youtu.be/2AhnoveKi0s"
       - name: "Portfolio 🖼️"
         url: "/portofolio/"
-      - name: "Artstation 🎨"
-        url: "https://www.artstation.com/fauzihermawan"
+      #- name: "Artstation 🎨"
+      #  url: "https://www.artstation.com/fauzihermawan"
       #- name: "Commision 📞"
 
   socialIcons: 
