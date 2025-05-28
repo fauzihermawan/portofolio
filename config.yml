@@ -90,7 +90,7 @@ params:
     imageTitle: my image
     buttons: 
       - name: "Resume 📄"
-        url: "https://drive.google.com/file/d/1RvKVfidUaoZzFQlNASY8AS2YDTN7jcJ7/view?usp=sharing"
+        url: "https://drive.google.com/file/d/1XFcRdGqaYOAjW878u1Z7i6GGw_M8MxPu/view?usp=sharing"
       #- name: "Showreel 📺"
       #  url: "https://youtu.be/2AhnoveKi0s"
       - name: "Portfolio 🖼️"
