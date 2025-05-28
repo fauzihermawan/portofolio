@@ -9,6 +9,11 @@ showToc: true
 TocOpen: false
 summary: "Inspired by the stunning concept art of XINGYUN by Zuna (钟豪), I wanted to bring this vision into 3D. This is a personal fan project, created as part of my journey in learning 3D stylized character.I also rendered this piece in Valorant’s official artwork style to better match the game's visual aesthetic. My goal was to practice translating concept art into a stylized 3D model while exploring different techniques." 
 ---
+### <center> Introduction </center>
+
+Inspired by the stunning concept art of [ArtStation - 幸运_瓦罗兰特粉丝艺术-Battlefield Lucky Star_valorant Game art style practice](https://www.artstation.com/artwork/49Pwxl)
+I wanted to bring this vision into 3D. This is a personal fan project, created as part of my journey in learning 3D stylized character.
+I also rendered this piece in Valorant’s official artwork style to better match the game's visual aesthetic. My goal was to practice translating concept art into a stylized 3D model while exploring different techniques.
 
 ### <center>Valorant character selection mock up<center>
 <center>{{< lightbox match="BG.png">}}</center>
