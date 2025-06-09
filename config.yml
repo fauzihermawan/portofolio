@@ -45,6 +45,9 @@ menu:
   - name: Search
     url: search/
     weight: 60
+  - name: Link
+    url: "https://link.fauzihermawan.com/"
+    weight: 70
 
 
 outputs:
