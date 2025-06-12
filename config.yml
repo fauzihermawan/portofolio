@@ -101,6 +101,8 @@ params:
       #- name: "Artstation 🎨"
       #  url: "https://www.artstation.com/fauzihermawan"
       #- name: "Commision 📞"
+      - name: "Fiverr"
+        url: "https://www.fiverr.com/s/kLjxDEw"
 
   socialIcons: 
     - name: email
