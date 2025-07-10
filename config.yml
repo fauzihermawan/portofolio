@@ -96,12 +96,12 @@ params:
         url: "https://drive.google.com/file/d/1XFcRdGqaYOAjW878u1Z7i6GGw_M8MxPu/view?usp=sharing"
       #- name: "Showreel 📺"
       #  url: "https://youtu.be/2AhnoveKi0s"
+      - name: "Artstation 🎨"
+        url: "https://www.artstation.com/fauzihermawan"      
       - name: "Portfolio 🖼️"
         url: "/portofolio/"
-      #- name: "Artstation 🎨"
-      #  url: "https://www.artstation.com/fauzihermawan"
       #- name: "Commision 📞"
-      - name: "Fiverr"
+      - name: "Fiverr 🛒"
         url: "https://www.fiverr.com/s/kLjxDEw"
 
   socialIcons: 
